@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1586709030 source:c:\users\eduard\google drive\esgi\edi esgi\2eme annee\pa\generateqrcode\qrcodegen.c
+	<assert.h>
+	<limits.h>
+	<stdlib.h>
+	<string.h>
+	"qrcodegen.h"
+
+1586709030 c:\users\eduard\google drive\esgi\edi esgi\2eme annee\pa\generateqrcode\qrcodegen.h
+	<stdbool.h>
+	<stddef.h>
+	<stdint.h>
+
+1587122363 source:c:\users\eduard\google drive\esgi\edi esgi\2eme annee\pa\generateqrcode\main.c
+	<stdbool.h>
+	<stddef.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"qrcodegen.h"
+
